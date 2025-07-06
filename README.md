@@ -1,6 +1,6 @@
 # Project Title
 
-In this repo you will find a jupyter notebook which contains the description of a non-linear problem and the code to solve it. The problem describes a parashute openieng and it is solved using different Newton methods.
+In this repo you will find a jupyter notebook which contains the description of a non-linear problem and the code to solve it. The problem describes a parashute openieng and it is solved using different versions of the Newton method.
 
 ## 🚀 Getting Started
 
