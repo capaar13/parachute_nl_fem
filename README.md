@@ -16,5 +16,4 @@ Navigate to direcotory of your project
     pip install -r requirements.txt
 
 3. **Run the notebook:**
-    ```bash
-    jupyter notebook
+    Open the notebook with a compatible editor (suggested: VS code)
